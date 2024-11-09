@@ -17,7 +17,7 @@ public class ReverseAinTwoPoi {
 	}
 	
 	public static void main(String[] args) {
-	 int [ ] Array= {1,2,3,4,5,6,7,8,9};
+	 int [] Array= {1,2,3,4,5,6,7,8,9};
 	ReverseArray(Array);
 	 
 	 for(int num: Array) {
